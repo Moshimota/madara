@@ -1,0 +1,416 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    
+background: rgba(33, 33, 33, 0.8);
+}
+.sono{
+    display: flex;
+}
+.dumo{
+    padding-left: 120px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-right: 25px;
+}
+.nomer{
+    
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+padding-left: 38px;
+padding-top: 24px;
+}
+.ham{
+    margin-top: 60px;
+}
+.mesto{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.town{
+    margin-left: 175px;
+    margin-top: 17px;
+}
+.icons{
+    margin-top: 24px;
+    margin-left: 270px;
+}
+.icon2{
+    margin-left: 15px;
+}
+.bek{
+    background: url(./img/Rectangle\ 47.png);
+}
+.bir{
+    padding-top: 77px;
+    padding-left: 189px;
+    
+font-weight: 400;
+font-size: 41px;
+color: #FFFFFF;
+
+}
+.com{
+    padding-top: 24px;
+    padding-left: 189px;
+    
+font-weight: 400;
+font-size: 19px;
+color: #FFFFFF;
+}
+.bor{
+    padding: 16px 34px;
+    margin-top: 24px;
+    margin-left: 189px;
+    
+font-weight: 600;
+font-size: 14px;
+color: #FFFFFF;
+
+border: 2px solid #C80000;
+border-radius: 27px;
+background: transparent;
+
+}
+.btn1{
+    padding-bottom: 181px;
+}
+section{
+    background: #373737;
+
+}
+.card{
+    border: none;
+    margin-top: 60px;
+    
+}
+.ca-ich{
+    background: #373737;
+    border: none;
+    
+}
+.ca-in{
+    padding: 64px;
+    padding-left: 134px;
+}
+.in-pas{
+font-weight: 500;
+font-size: 17px;
+color: #FFFFFF;
+padding-left: 90px;
+opacity: 0.4;
+}
+.card35{
+    background: url(./img/Rectangle\ 33.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 590px;
+    height: 500px;
+    margin-left: 122px;
+    margin-top: 88px;
+}
+.card62{
+    margin-left: 122px;
+    padding-top: 89px;
+    padding-left: 26px;
+    padding-right: 25px;
+    padding-bottom: 114px;
+    margin-top: 25px;
+    margin-right: -100px;
+    
+background: #272727;
+border-radius: 14px;
+}
+.ca-pa2{
+    
+font-weight: 500;
+font-size: 14px;
+color: #FFFFFF;
+margin-left: 30px;
+margin-top: 11px;
+}
+.ca-pa2-na{
+    
+font-weight: 600;
+font-size: 14px;
+color: #FFFFFF;
+
+opacity: 0.5;
+margin-left: 30px;
+
+}
+.cards30{
+    display: flex;
+    margin-top: 65px;
+}
+.cards31{
+    display: flex;
+}
+.cards32{
+    display: flex;
+}
+.card63{
+    
+    margin-left: 45px;
+    padding-top: 89px;
+    padding-left: 26px;
+    padding-right: 25px;
+    padding-bottom: 114px;
+    margin-top: 25px;
+    margin-right: -20px;
+    
+background: #272727;
+border-radius: 14px;
+}
+.pich-tag{
+    margin-top: 50px;
+    
+font-weight: 500;
+font-size: 27px;
+color: #FFFFFF;
+}
+.input23{
+    margin-top: 17px;
+background: #272727;
+border-radius: 6px;
+
+}
+.card64{
+    
+    margin-left: 10px;
+    padding-top: 89px;
+    padding-left: 26px;
+    padding-right: 25px;
+    padding-bottom: 114px;
+    margin-top: 25px;
+    margin-right: -100px;
+    
+background: #272727;
+border-radius: 14px;
+}
+.card65{
+    
+    margin-left: 50px;
+    padding-top: 89px;
+    padding-left: 26px;
+    padding-right: 25px;
+    padding-bottom: 114px;
+    margin-top: 25px;
+    margin-right: -100px;
+    
+background: #272727;
+border-radius: 14px;
+}
+.ca-pa3{
+    
+font-weight: 500;
+font-size: 14px;
+color: #FFFFFF;
+margin-left: 30px;
+margin-top: 45px;
+}
+.nov{
+    margin-left: 28px;
+font-weight: 600;
+font-size: 14px;
+color: #FF3232;
+}
+.pss{
+    display: flex;
+    
+}
+.h1s{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.tag-qiz{
+    
+font-weight: 600;
+font-size: 17px;
+color: #FFFFFF;
+
+}
+.tag-tran{
+    margin-left: 54px;
+font-weight: 600;
+font-size: 17px;
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.cards38{
+    display: flex;
+    margin-top: 30px;
+    
+}
+.card69{
+    
+    
+    margin-left: 60px;
+    padding-top: 89px;
+    padding-left: 26px;
+    padding-right: 25px;
+    padding-bottom: 114px;
+    margin-top: 25px;
+    margin-right: -32px;
+    
+background: #272727;
+border-radius: 14px;
+}
+.cols{
+    
+    display: flex;
+}
+.chet{
+    
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.zay{
+    
+    margin-top: 120px;
+    margin-left: 80px;
+    
+font-weight: 500;
+font-size: 35px;
+color: #FFFFFF;
+}
+.zay2{
+    
+    margin-top: 45px;
+    margin-left: 80px;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+}
+.zay-zay{
+    
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+margin-top: 54px;
+margin-left: 50px;
+}
+.zay-zay2{
+    margin-left: 50px;
+    margin-top: 27px;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+
+}
+.zay-zay3{
+    margin-top: 43px;
+    margin-left: 50px;
+font-weight: 600;
+font-size: 28px;
+color: #FFFFFF;
+}
+.po-tk{
+    margin-top: 50px;
+    margin-left: 86px;
+}
+.go{
+    margin-top: 120px;
+    margin-left: 50px;
+    
+    font-weight: 500;
+    font-size: 35px;
+    color: #FFFFFF;
+    
+    
+}
+.qayta{
+    margin-top: 37px;
+    margin-left: 50px;
+    padding-bottom: 60px;
+}
+.cols2{
+    display: flex;
+}
+footer{
+    background-color: #272727;
+}
+.noka{
+    display: flex;
+}
+.daun{
+    margin-top: 44px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+.po-in{
+    margin-top: 44px;
+    margin-left: 25px;
+font-weight: 600;
+font-size: 13px;
+color: #FFFFFF;
+}
+.po-fsyo{
+    margin-top: 20px;
+font-weight: 400;
+font-size: 13px;
+color: #ffffff96;
+}
+.yesho{
+    margin-left: 40px;
+}
+.onfo{
+margin-top: 47px;
+
+font-weight: 600;
+font-size: 17px;
+color: #FFFFFF;
+}
+.kat{
+    margin-top: 34px;
+    
+font-weight: 600;
+font-size: 17px;
+color: #FFFFFF;
+}
+.cols3{
+    display: flex;
+}
+.kon{
+    margin-top: 47px;
+font-weight: 600;
+font-size: 17px;
+color: #FFFFFF;
+
+}
+.nom63{
+    margin-top: 23px;
+font-weight: 600;
+font-size: 20px;
+color: #FFFFFF;
+}
+.tut{
+    margin-top: -10px;
+font-weight: 400;
+font-size: 14px;
+color: #FFFFFF;
+}
+.chasi{
+    margin-top: 22px;
+font-weight: 400;
+font-size: 14px;
+color: #FFFFFF;
+}
+.po-chas{
+    margin-top: 16px;
+font-weight: 400;
+font-size: 14px;
+color: #FFFFFF;
+}
+.korsat{
+    margin-top: 32px;
+}
